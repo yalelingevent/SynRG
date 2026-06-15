@@ -1,11 +1,11 @@
 ---
 title: A-Locality at the Edge
-date: 2026-02-13 10:30:00 -0500
+date: 2026-02-27 10:30:00 -0500
 author: BrodkinDan0
 location: 37hillhouse101
 
-categories: [morphosyntax, syntax-phonology interface]
-tags: [movement]
+categories: guest-talk
+tags: [movement, syntax-phonology interface]
 
 handout_url: /assets/pdf/2026Spring/SynRG_2026Spring_BrodkinDan.pdf
 

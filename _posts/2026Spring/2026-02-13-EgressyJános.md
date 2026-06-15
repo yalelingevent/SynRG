@@ -4,7 +4,7 @@ author: EgressyJános0
 date: 2026-02-07 10:30:00 -0500
 location: 37hillhouse101
 
-categories: [morphosyntax]
+categories: guest-talk
 tags: [movement]
 
 handout_url: /assets/pdf/2026Spring/SynRG_2026Spring_EgressyJános.pdf

@@ -4,8 +4,8 @@ date: 2026-04-03 10:30:00 -0500
 author: BenzJohanna0
 location: 37hillhouse101
 
-categories: [morphosyntax, syntax-semantics interface]
-tags: [nominalization]
+categories: guest-talk
+tags: [nominalization, syntax-semantics interface]
 
 handout_url:
 

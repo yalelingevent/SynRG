@@ -4,8 +4,8 @@ author: KasenovDaniar0
 date: 2026-02-20 10:30:00 -0500
 location: 37hillhouse101
 
-categories: [morphosyntax, syntax-semantics interface]
-tags: [nominalization]
+categories: guest-talk
+tags: [nominalization, syntax-semantics interface]
 
 handout_url: /assets/pdf/2026Spring/SynRG_2026Spring_KasenovDaniar.pdf
 ---

@@ -1,0 +1,6 @@
+{% if post.author or post.authors %}
+    {% assign authors = post.author | default: post.authors %}
+    {%- for author in authors -%}
+    {{ site.data.authors[author].name }}{% unless forloop.last %}; {% endunless %}
+    {%- endfor -%}:
+{% endif %}

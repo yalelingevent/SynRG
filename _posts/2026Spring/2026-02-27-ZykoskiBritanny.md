@@ -1,10 +1,10 @@
 ---
 title: "Hither Head Movement: What could we might learn from double modals?"
 date: 2026-02-27 10:30:00 -0500
-author: ZykoskyBritanny0
+author: ZykoskiBritanni0
 location: 37hillhouse202
 
-categories: [morphosyntax]
+categories: guest-talk
 tags: [head movement, micro-variation]
 
 handout_url: 

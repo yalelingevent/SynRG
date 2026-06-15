@@ -4,7 +4,7 @@ author: BakerMark0
 date: 2026-02-06 10:30:00 -0500
 location: 37hillhouse101
 
-categories: [morphosyntax]
+categories: guest-talk
 tags: [control]
 
 handout_url: 
