@@ -4,6 +4,11 @@ layout: default
 
 {% include lang.html %}
 
+<p class="lead">
+  {{ content }}
+</p>
+
+
 {% assign all_pinned = site.posts | where: 'pin', 'true' %}
 {% assign all_normal = site.posts | where_exp: 'item', 'item.pin != true and item.hidden != true' %}
 
