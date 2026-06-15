@@ -1,7 +1,8 @@
+{% assign duration = page.duration | default: 4500 %}
 <button id="ics-btn"
     style="border: 1px solid; padding: 0.35rem 0.35rem; border-radius: 4px;"
     data-start="{{ page.date | date: '%Y%m%dT%H%M%S' }}"
-    data-end="{{ page.date | date: '%s' | plus: 4500 | date: '%Y%m%dT%H%M%S' }}"
+    data-end="{{ page.date | date: '%s' | plus: duration | date: '%Y%m%dT%H%M%S' }}"
     class="btn btn-sm btn-outline-secondary"
 >
   <i class="fas fa-calendar-plus"></i>
@@ -27,7 +28,7 @@ document.getElementById('ics-btn').addEventListener('click', function() {
   var url = URL.createObjectURL(blob);
   var a = document.createElement('a');
   a.href = url;
-  a.download = 'synrg.ics';
+  a.download = 'synrgevent.ics';
   document.body.appendChild(a);
   a.click();
   setTimeout(function() {
