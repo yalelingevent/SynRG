@@ -34,8 +34,9 @@ header {
     }
 
     em {
+      font-size: 1.125rem;
       a {
-        color: inherit;
+        color: var(--heading-color);
       }
     }
   }

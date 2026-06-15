@@ -2,12 +2,12 @@
   color-scheme: dark;
 
   /* Framework color */
-  --main-bg: rgb(47 62 111);
+  --main-bg: #091a54;
   --mask-bg: rgb(68 69 70);
   --main-border-color: rgb(44 45 45);
 
   /* Common color */
-  --text-color: rgb(175 176 177);
+  --text-color: #cccccc;
   --text-muted-color: #868686;
   --text-muted-highlight-color: #aeaeae;
   --heading-color: #cccccc;
@@ -32,9 +32,9 @@
   );
 
   /* Sidebar */
-  --site-title-color: #717070;
-  --site-subtitle-color: #868686;
-  --sidebar-bg: #091a54;
+  --site-title-color: #cccccc;
+  --site-subtitle-color: #cccccc;
+  --sidebar-bg: #2f3e6f;
   --sidebar-border-color: #292929;
   --sidebar-muted-color: #868686;
   --sidebar-active-color: rgb(255 255 255 / 95%);

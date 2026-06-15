@@ -1,0 +1,8 @@
+# Logistics (暫定):
+# 1. If an entity changes affiliation, it could potentially be captured by creating multiple entries, e.g. FamilyGiven0, FamilyGiven1. The information of an entity shown for a talk should be the one that took effect at the time of the talk, even when it is different from now.
+# 2.
+
+ManowangGump0:
+  name: Manowang Gump (UCL)
+  email: w.manowang@ucl.ac.uk
+  url: https://sites.google.com/kmitl.ac.th/gumpmanowang/about-me
