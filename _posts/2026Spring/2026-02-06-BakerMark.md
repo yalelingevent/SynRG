@@ -7,7 +7,7 @@ location: 37hillhouse101
 categories: [morphosyntax]
 tags: [control]
 
-handout_url: /assets/pdf/2026Spring/SynRG_2026Spring_EgressyJános.pdf
+handout_url: 
 ---
 
 Under standard Phase Theory, the locality constraint deriving successive cyclicity is the PIC (Chomsk 2001), which requires movement to proceed via the edge of phases. For example, a CP phase can only be escaped via Spec,CP. The Williams Cycle (Williams 2003; Poole 2023) generalizes selective opacity, a different kind of locality: It is P's relative size that makes it opaque to probes that are not sufficiently high in the next lowest clause. For example, probes on C but not on T can search into CP because C T in the functional sequence. Most accounts of selective opacity (Keine 2020) or the Williams Cycle effects (Meadows 2023) handle successive cyclicity and Williams Cycle effects as independent phenomena. That is, a CP may independently necessitate successive cyclicity because it's a phase and exhibit Williams Cycle effects because it's too large. 
