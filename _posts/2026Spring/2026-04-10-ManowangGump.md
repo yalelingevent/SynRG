@@ -7,7 +7,7 @@ location: 37hillhouse
 categories: [syntax]
 tags: [discourse, ellipsis]
 
-handout_url: assets/pdf/2026Spring/SynRG_2026Spring_ManowangGump.pdf
+handout_url: /assets/pdf/2026Spring/SynRG_2026Spring_ManowangGump.pdf
 
 stataion: 
 
