@@ -67,6 +67,7 @@ $sidebar-display: 'sidebar-display'; /* the attribute for sidebar display */
     }
 
     img {
+      content: var(--avatar-url);
       transition: transform 0.5s;
 
       &:hover {

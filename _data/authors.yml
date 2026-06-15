@@ -2,6 +2,16 @@
 # 1. If an entity changes affiliation, it could potentially be captured by creating multiple entries, e.g. FamilyGiven0, FamilyGiven1. The information of an entity shown for a talk should be the one that took effect at the time of the talk, even when it is different from now.
 # 2.
 
+BenzJohanna0:
+  name: Johanna Benz (Princeton)
+  email: jb1341@princeton.edu
+  url: https://www.johannabenz.com
+
+BrodkinDan0:
+  name: Dan Brodkin (UPenn)
+  email: dbrodkin@sas.upenn.edu
+  url: https://www.ling.upenn.edu/people/daniel-brodkin
+
 ManowangGump0:
   name: Manowang Gump (UCL)
   email: w.manowang@ucl.ac.uk

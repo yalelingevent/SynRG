@@ -1,4 +1,7 @@
 @mixin styles {
+  /* avatar */
+  --avatar-url: url('/SynRG/assets/img/avatar_light.pdf');
+
   /* Framework color */
   --main-bg: white;
   --mask-bg: #c1c3c5;
@@ -59,8 +62,8 @@
   --btn-share-hover-color: #0d6efd;
   --card-bg: white;
   --card-hover-bg: #e2e2e2;
-  --card-shadow: rgb(104 104 104 / 5%) 0 2px 6px 0,
-    rgb(211 209 209 / 15%) 0 0 0 1px;
+  --card-shadow:
+    rgb(104 104 104 / 5%) 0 2px 6px 0, rgb(211 209 209 / 15%) 0 0 0 1px;
   --footnote-target-bg: lightcyan;
   --tb-odd-bg: #fbfcfd;
   --tb-border-color: #eaeaea;

@@ -2,10 +2,13 @@
 @mixin styles {
   color-scheme: dark;
 
+  /* avatar */
+  --avatar-url: url('/SynRG/assets/img/avatar_dark.pdf');
+
   /* Framework color */
   --main-bg: #091a54;
   --mask-bg: rgb(68 69 70);
-  --main-border-color: rgb(44 45 45);
+  --main-border-color: #cccccc;
 
   /* Common color */
   --text-color: #ffffff;
@@ -13,15 +16,16 @@
   --text-muted-highlight-color: #ffffff;
   --heading-color: #ffffff;
   --label-color: #a7a7a7;
-  --blockquote-border-color: rgb(66 66 66);
+  --plane-border-color: #292929;
+  --blockquote-border-color: rgb(5, 4, 4);
   --blockquote-text-color: #cccccc;
-  --link-color: rgb(138 180 248);
+  --link-color: #82f4f6;
   --link-underline-color: rgb(82 108 150);
   --button-bg: #1e1e1e;
-  --btn-border-color: #2e2f31;
+  --btn-border-color: #cccccc;
   --btn-backtotop-color: var(--text-color);
   --btn-backtotop-border-color: #212122;
-  --card-header-bg: #292929;
+  --card-header-bg: var(--plane-border-color);
   --checkbox-color: #cccccc;
   --checkbox-checked-color: #cccccc;
   --img-bg: radial-gradient(circle, rgb(22 22 24) 0%, rgb(32 32 32) 100%);
@@ -36,7 +40,7 @@
   --site-title-color: #cccccc;
   --site-subtitle-color: #cccccc;
   --sidebar-bg: #2f3e6f;
-  --sidebar-border-color: #292929;
+  --sidebar-border-color: var(--plane-border-color);
   --sidebar-muted-color: #cccccc; /*the menu texts*/
   --sidebar-active-color: rgb(255 255 255 / 95%);
   --sidebar-hover-bg: #262626;
@@ -47,9 +51,9 @@
   --avatar-border-color: rgb(206 206 206 / 90%);
 
   /* Topbar */
-  --topbar-bg: rgb(27 27 30 / 64%);
+  --topbar-bg: #2f3e6f;
   --topbar-text-color: var(--text-color);
-  --search-border-color: rgb(55 55 55);
+  --search-border-color: var(--plane-border-color);
   --search-icon-color: rgb(100 102 105);
   --input-focus-border-color: rgb(112 114 115);
 
@@ -68,10 +72,10 @@
   --footnote-target-bg: rgb(63 81 181);
   --btn-share-color: #6c757d;
   --btn-share-hover-color: #bfc1ca;
-  --card-bg: #1e1e1e;
+  --card-bg: #2f3e6f;
   --card-hover-bg: #464d51;
   --card-shadow:
-    rgb(21 21 21 / 72%) 0 6px 18px 0, rgb(137 135 135 / 24%) 0 0 0 1px;
+    rgb(21 21 21 / 72%) 0 6px 18px 0, var(--plane-border-color) 0 0 0 1px;
   --kbd-wrap-color: #6a6a6a;
   --kbd-text-color: #d3d3d3;
   --kbd-bg-color: #242424;
@@ -142,14 +146,7 @@
   }
 
   #archives li:nth-child(odd) {
-    background-image: linear-gradient(
-      to left,
-      rgb(26 26 30),
-      rgb(39 39 45),
-      rgb(39 39 45),
-      rgb(39 39 45),
-      rgb(26 26 30)
-    );
+    background-image: linear-gradient(to left, #081951, rgb(5, 5, 92), #081951);
   }
 
   /* stylelint-disable-next-line selector-id-pattern */
