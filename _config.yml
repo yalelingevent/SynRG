@@ -31,10 +31,10 @@ github:
 # twitter:
 #   username: twitter_username # change to your Twitter username
 
-# social:
-#   # Change to your full name.
-#   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-#   name: your_full_name
+social:
+  #   # Change to your full name.
+  #   # It will be displayed as the default author of the posts and the copyright owner in the Footer
+  name: "Yale Lingusitics graduate students"
 #   email: example@domain.com # change to your email address
 #   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
 #   links:
