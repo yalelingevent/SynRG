@@ -2,9 +2,9 @@
 title: The (non-)survival of discourse particles in ellipsis
 date: 2026-04-10 10:30:00 -0500
 author: ManowangGump0
-location: 37hillhouse
+location: 37hillhouse101
 
-categories: [syntax]
+categories: [morphosyntax]
 tags: [discourse, ellipsis]
 
 handout_url: /assets/pdf/2026Spring/SynRG_2026Spring_ManowangGump.pdf

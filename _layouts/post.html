@@ -104,10 +104,11 @@ script_includes:
         </div>
       {% endif %}
     </div>
+
+    {% if page.handout_url %}
+      <div>{% include pdf_button.html %}</div>
+    {% endif %}
   </header>
-  {% if page.handout_url %}
-    <a href="{{ site.baseurl }}{{ page.handout_url }}" target="_blank" class="btn btn-sm btn-outline-primary"><i class="fas fa-file-pdf"></i></a>
-  {% endif %}
   
 
 

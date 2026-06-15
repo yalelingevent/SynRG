@@ -2,7 +2,7 @@
 title: A-Locality at the Edge
 date: 2026-03-27 10:30:00 -0500
 author: BrodkinDan0
-location: 37hillhouse
+location: 37hillhouse101
 
 categories: [morphosyntax, syntax-phonology interface]
 tags: [linerization, A/Ā-movement]
