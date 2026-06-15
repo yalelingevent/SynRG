@@ -72,29 +72,9 @@ script_includes:
       <span>
         {{ site.data.locales[lang].post.posted }}
         {% include datetime.html date=page.date tooltip=true lang=lang %}
-        <button
-          data-title="[SynRG] {% if page.author %}{% assign authors = page.author %}{% elsif page.authors %}{% assign authors = page.authors %}{% endif %}{% for author in authors %}{{ site.data.authors[author].name }}{% unless forloop.last %}, {% endunless %}{% endfor %}: {{ page.title }}"
-          data-start="{{ page.date | date: '%Y%m%dT%H%M%S' }}"
-          data-end="{{ page.date | date: '%s' | plus: 5400 | date: '%Y%m%dT%H%M%S' }}"
-          data-location="{{ site.data.locations[page.location].name | default: 'TBD' }}"
-          data-description="{{ page.description | default: '' }}"
-          class="btn btn-sm btn-outline-secondary"
-          onclick="
-            var title = this.dataset.title;
-            var start = this.dataset.start;
-            var end = this.dataset.end;
-            var loc = this.dataset.location;
-            var desc = this.dataset.description;
-            var ics = 'BEGIN:VCALENDAR\nVERSION:2.0\nBEGIN:VEVENT\nSUMMARY:' + title + '\nDTSTART;TZID=America/New_York:' + start + '\nDTEND;TZID=America/New_York:' + end + '\nLOCATION:' + loc + '\nDESCRIPTION:' + desc + '\nEND:VEVENT\nEND:VCALENDAR';
-            var blob = new Blob([ics], {type: 'text/calendar'});
-            var a = document.createElement('a');
-            a.href = URL.createObjectURL(blob);
-            a.download = 'synrg-talk.ics';
-            a.click();
-          "
-        >
-          <i class="fas fa-calendar-plus"></i> add to calendar
-        </button>
+        
+        <!--add to calendar button-->
+        {% include add2calendar.html %}
       </span>
 
       
@@ -126,7 +106,7 @@ script_includes:
     </div>
   </header>
   {% if page.handout_url %}
-    <a href="{{ site.baseurl }}{{ page.handout_url }}" target="_blank" class="btn btn-sm btn-outline-primary"><i class="fas fa-file-pdf"></i> handout</a>
+    <a href="{{ site.baseurl }}{{ page.handout_url }}" target="_blank" class="btn btn-sm btn-outline-primary"><i class="fas fa-file-pdf"></i></a>
   {% endif %}
   
 

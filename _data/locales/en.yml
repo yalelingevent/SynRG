@@ -31,7 +31,7 @@ copyright:
   # Shown at the bottom of the post
   license:
     template: This post is licensed under :LICENSE_NAME by the author.
-    name: CC BY 4.0
+    name: '<i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by"></i> 4.0'
     link: https://creativecommons.org/licenses/by/4.0/
 
   # Displayed in the footer

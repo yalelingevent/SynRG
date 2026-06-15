@@ -1,3 +1,4 @@
+/*this is too much. # of colors needs to be reduced*/
 @mixin styles {
   color-scheme: dark;
 
@@ -7,13 +8,13 @@
   --main-border-color: rgb(44 45 45);
 
   /* Common color */
-  --text-color: #cccccc;
-  --text-muted-color: #868686;
-  --text-muted-highlight-color: #aeaeae;
-  --heading-color: #cccccc;
+  --text-color: #ffffff;
+  --text-muted-color: #cccccc;
+  --text-muted-highlight-color: #ffffff;
+  --heading-color: #ffffff;
   --label-color: #a7a7a7;
   --blockquote-border-color: rgb(66 66 66);
-  --blockquote-text-color: #868686;
+  --blockquote-text-color: #cccccc;
   --link-color: rgb(138 180 248);
   --link-underline-color: rgb(82 108 150);
   --button-bg: #1e1e1e;
@@ -21,8 +22,8 @@
   --btn-backtotop-color: var(--text-color);
   --btn-backtotop-border-color: #212122;
   --card-header-bg: #292929;
-  --checkbox-color: rgb(118 120 121);
-  --checkbox-checked-color: var(--link-color);
+  --checkbox-color: #cccccc;
+  --checkbox-checked-color: #cccccc;
   --img-bg: radial-gradient(circle, rgb(22 22 24) 0%, rgb(32 32 32) 100%);
   --shimmer-bg: linear-gradient(
     90deg,
@@ -36,11 +37,13 @@
   --site-subtitle-color: #cccccc;
   --sidebar-bg: #2f3e6f;
   --sidebar-border-color: #292929;
-  --sidebar-muted-color: #868686;
+  --sidebar-muted-color: #cccccc; /*the menu texts*/
   --sidebar-active-color: rgb(255 255 255 / 95%);
   --sidebar-hover-bg: #262626;
+
+  /* the round buttons at the end*/
   --sidebar-btn-bg: #232328;
-  --sidebar-btn-color: #787878;
+  --sidebar-btn-color: #cccccc;
   --avatar-border-color: rgb(206 206 206 / 90%);
 
   /* Topbar */
@@ -51,7 +54,7 @@
   --input-focus-border-color: rgb(112 114 115);
 
   /* Home page */
-  --post-list-text-color: rgb(175 176 177);
+  --post-list-text-color: #afb0b1;
   --btn-patinator-text-color: var(--text-color);
   --btn-paginator-hover-color: #2e2e2e;
 

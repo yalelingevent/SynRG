@@ -1,0 +1,38 @@
+<button id="ics-btn"
+    style="padding: 0.05rem 0.15rem;"
+    data-start="{{ page.date | date: '%Y%m%dT%H%M%S' }}"
+    data-end="{{ page.date | date: '%s' | plus: 5400 | date: '%Y%m%dT%H%M%S' }}"
+    class="btn btn-sm btn-outline-secondary"
+>
+  <i class="fas fa-calendar-plus"></i>
+</button>
+
+<script>
+document.getElementById('ics-btn').addEventListener('click', function() {
+  var start = this.dataset.start;
+  var end = this.dataset.end;
+  var CRLF = String.fromCharCode(13, 10);
+  var ics = [
+    'BEGIN:VCALENDAR',
+    'VERSION:2.0',
+    'BEGIN:VEVENT',
+    'SUMMARY:Test',
+    'DTSTART;TZID=America/New_York:' + start,
+    'DTEND;TZID=America/New_York:' + end,
+    'END:VEVENT',
+    'END:VCALENDAR'
+  ].join(CRLF);
+
+  var blob = new Blob([ics], { type: 'text/calendar;charset=utf-8' });
+  var url = URL.createObjectURL(blob);
+  var a = document.createElement('a');
+  a.href = url;
+  a.download = 'synrg.ics';
+  document.body.appendChild(a);
+  a.click();
+  setTimeout(function() {
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+  }, 100);
+});
+</script>
