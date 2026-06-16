@@ -1,6 +1,6 @@
 ---
 title: A-Locality at the Edge
-date: 2026-02-27 10:30:00 -0500
+date: 2026-03-27 10:30:00 -0500
 author: BrodkinDan0
 location: 37hillhouse101
 

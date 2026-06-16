@@ -1,7 +1,7 @@
 ---
 title: Williams Cycle effects and successive cyclicity unified
 author: EgressyJános0
-date: 2026-02-07 10:30:00 -0500
+date: 2026-02-13 10:30:00 -0500
 location: 37hillhouse101
 
 categories: guest-talk

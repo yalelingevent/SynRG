@@ -16,7 +16,7 @@ timezone: America/New_York
 
 title: SynRG @ Yale # the main title
 
-tagline: Syntax Reading Group at Yale Linguistics # it will display as the subtitle
+tagline: # Syntax Reading Group at Yale Linguistics # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Syntax Reading Group at Yale Linguistics.
