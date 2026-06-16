@@ -6,7 +6,7 @@ duration: 4500
 location: lingsem
 
 categories: guest-talk
-tags: [syntax-phonology interface]
+tags: [syntax-semantics interface, conditionals, ellipsis]
 
 handout_url: 
 meeting_url: 
@@ -22,4 +22,3 @@ In this talk, I discuss a construction I call "conditional wh-question with VP E
 The elided object receives different interpretations in (1) and (2).  In (1), it has a *bound reading*; specifically, it's bound by the wh-phrase.  In (2), it has an *indefinite reading*.  I address two questions concerning these constructions.  The first question is: when does a conditional wh-question with VP Ellipsis have a bound reading, and when does it have an indefinite reading?  I argue that the interpretation of the elided object is related to the attachment height of the if-clause: when the if-clause is inside the wh-question, the elided object has a bound reading, and when the if-clause is outside the wh-question, the elided object has an indefinite reading.
 
 The second question is: how is the licensing condition for VP Ellipsis satisfied in the bound and indefinite readings?  VP Ellipsis is licensed when the antecedent and elided VPs are "identical" in some sense.  The indefinite reading is especially interesting because it shows that VP Ellipsis tolerates a syntactic mismatch between an antecedent wh-phrase and an elided indefinite.  I provide an analysis that assumes VP Ellipsis requires semantic identity between the two VPs, and relates these ellipsis constructions with intervention effects in wh-questions (Beck 2006).
-

@@ -17,6 +17,11 @@ BenzJohanna0:
   email:
   url: https://www.johannabenz.com
 
+BeslinMasa0:
+  name: Maša Bešlin (Maryland)
+  email:
+  url: https://www.masabeslin.com
+
 BrodkinDan0:
   name: Dan Brodkin (UCSC)
   email:
@@ -33,7 +38,7 @@ BuiThuong0:
   url:
 
 DanielPenelope0:
-  name: Penelope Daniel
+  name: Penelope Daniel (UConn)
   email:
   url: https://sites.google.com/view/penelope-daniel/home
 
@@ -47,10 +52,20 @@ EgressyJános0:
   email:
   url: https://linguistics.ucla.edu/person/janos-egressy/
 
+GuChristine0:
+  name: Christine Gu (NYU)
+  email:
+  url: https://www.christinegu.org
+
 HoleDaniel0:
   name: Daniel Hole (Stuttgart)
   email:
   url: https://www.uni-stuttgart.de/en/press/experts/Prof.-Daniel-Hole/
+
+JenkinsRobin0:
+  name: Robin Jenkins (UConn)
+  email:
+  url: https://robinjenkins.net
 
 JianJasper0:
   name: Jasper Jian (Stanford)
@@ -92,8 +107,18 @@ NdapoOlivia0:
   email:
   url:
 
+NeuEva0:
+  name: Eva Neu (UMass)
+  email:
+  url: https://eva-neu.github.io
+
+KeelyNew0:
+  name: New Keely (MIT)
+  email:
+  url: https://keely.news
+
 OzakiSatoru0:
-  name: Satoru Ozaki
+  name: Satoru Ozaki (UMass)
   email:
   url: https://ikazos.gitlab.io/content/index.html
 
@@ -107,10 +132,25 @@ ShihChun-Hung0:
   email:
   url: https://chunhungshih.github.io
 
+SnorrasonOddur0:
+  name: Oddur Snorrason (QMUL)
+  email:
+  url: https://sites.google.com/view/oddur-snorrason
+
+StormentJD0:
+  name: JD Storment (Stony Brook)
+  email:
+  url: https://www.jdstorment.com
+
 SvavarsdóttirHrefna0:
   name: Hrefna Svavarsdóttir (Harvard)
   email:
   url: https://linguistics.fas.harvard.edu/people/hrefna-svavarsdottir
+
+VasileiosMichos0:
+  name: Michos Vasileios (Boston)
+  email:
+  url: https://sites.google.com/view/vasileios-michos/about
 
 WimmerAlexander0:
   name: Alexander Wimmer (Stuttgart)
@@ -121,6 +161,11 @@ WoodJim0:
   name: Jim Wood (Yale)
   email:
   url: https://jimwood8.wordpress.com
+
+WuNairan0:
+  name: Nairan Wu (Boston)
+  email:
+  url: https://www.bu.edu/linguistics/profile/nairan-wu/
 
 YeAriela0:
   name: Ariela Ye (Rutgers)
