@@ -1,12 +1,12 @@
 {% assign duration = page.duration | default: 4500 %}
 <button id="ics-btn"
-    style="border: 1px solid; border-radius: 4px;"
     data-start="{{ page.date | date: '%Y%m%dT%H%M%S' }}"
     data-end="{{ page.date | date: '%s' | plus: duration | date: '%Y%m%dT%H%M%S' }}"
     data-title="{{ page.title }}"
     data-location="{{ site.data.locations[page.location].name | default: '' }}"
     data-meeting-url = "{{ page.meeting_url }}"
     class="btn btn-sm btn-outline-secondary"
+    target = "_blank"
 >
   <i class="fas fa-calendar-plus"></i>
 </button>

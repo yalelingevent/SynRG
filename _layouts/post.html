@@ -75,6 +75,11 @@ script_includes:
         
         <!--add to calendar button-->
         {% include add2calendar.html %}
+        {% if page.meeting_url %}
+          <a href="{{ page.meeting_url }}" class="btn btn-sm btn-outline-secondary" target="_blank">
+            <i class="fas fa-video"></i>
+          </a>
+        {% endif %}
       </span>
 
       

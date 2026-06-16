@@ -52,7 +52,7 @@ notification:
 # ----- Posts related labels -----
 
 post:
-  written_by: Presenter(s)
+  written_by: Author(s)
   posted: Date
   updated: Updated
   words: words

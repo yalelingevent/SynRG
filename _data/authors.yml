@@ -17,6 +17,15 @@ BrodkinDan0:
   email: dbrodkin@sas.upenn.edu
   url: https://www.ling.upenn.edu/people/daniel-brodkin
 
+BuiThuong0:
+  name: Thương Beryl Bui (Rutgers)
+  email: thb38@rutgers.edu
+
+DiasTarcisio0:
+  name: Tarcisio Dias (UConn)
+  email: tarcisio.dias@uconn.edu
+  url: https://linguistics.uconn.edu/person/tarcisio-dias/
+
 EgressyJános0:
   name: János Egressy (UCLA)
   email: egressyjanos@gmail.com
@@ -32,10 +41,19 @@ KasenovDaniar0:
   email: dk4981@nyu.edu
   url: https://antidanyar.github.io/academic/
 
+KatochoritisYiannis0:
+  name: Yiannis Katochoritis (MIT)
+  email: katoch98@mit.edu
+  url: https://linguistics.mit.edu/user/katoch98/
+
 ManowangGump0:
   name: Manowang Gump (UCL)
   email: w.manowang@ucl.ac.uk
   url: https://sites.google.com/kmitl.ac.th/gumpmanowang/about-me
+
+NdapoOlivia0:
+  name: Olivia Ndapo (NYU)
+  email: oln2005@nyu.edu
 
 YeAriela0:
   name: Ariela Ye (Rutgers)
