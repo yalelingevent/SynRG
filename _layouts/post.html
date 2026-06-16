@@ -166,7 +166,8 @@ script_includes:
     {% if page.tags.size > 0 %}
       <div class="post-tags">
         <i class="fa fa-tags fa-fw me-1"></i>
-        {% for tag in page.tags %}
+        {% assign sorted_tags = page.tags | sort %}
+        {% for tag in sorted_tags %}
           <a
             href="{{ site.baseurl }}/tags/{{ tag | slugify | url_encode }}/"
             class="post-tag no-text-decoration"

@@ -1,11 +1,12 @@
 ---
 title: Prefixation in German nominalizations
 date: 2026-04-03 10:30:00 -0400
+duration: 4500
 author: BenzJohanna0
 location: 37hillhouse101
 
 categories: guest-talk
-tags: [nominalization, syntax-semantics interface]
+tags: [nominalization, syntax-semantics interface, distributed morphorlogy]
 
 handout_url:
 

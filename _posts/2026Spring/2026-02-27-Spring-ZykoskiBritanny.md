@@ -1,6 +1,7 @@
 ---
 title: "Hither Head Movement: What could we might learn from double modals?"
 date: 2026-02-27 10:30:00 -0500
+duration: 4500
 author: ZykoskiBritanni0
 location: 37hillhouse202
 

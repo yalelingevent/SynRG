@@ -2,7 +2,7 @@
 title: "Oshingandjera (Oshiwambo) Passive: Projecting the Implicit Argument"
 author: NdapoOlivia0
 date: 2025-11-14 10:30:00 -0500
-duration: 5400
+duration: 4500
 location: 37hillhouse101
 
 categories: guest-talk

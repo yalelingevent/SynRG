@@ -2,7 +2,7 @@
 title: "It’s just a Phase, it’ll pass: Measuring Unlocking in Malagasy vs. Dinka"
 author: KatochoritisYiannis0
 date: 2025-10-31 10:30:00 -0400
-duration: 5400
+duration: 4500
 location: 37hillhouse101
 
 categories: guest-talk

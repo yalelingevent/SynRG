@@ -2,7 +2,7 @@
 title: "Born to be bound: A unified account for the logophoric, reflexive, and first-person uses of Vietnamese mình"
 author: BuiThuong0
 date: 2025-11-07 10:30:00 -0500
-duration: 5400
+duration: 4500
 location: 37hillhouse101
 
 categories: guest-talk

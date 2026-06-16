@@ -2,7 +2,7 @@
 title: Presyntactic bundling and how to spot it
 author: JianJasper0
 date: 2025-12-05 10:30:00 -0500
-duration: 5400
+duration: 4500
 location: 37hillhouse101
 
 categories: guest-talk

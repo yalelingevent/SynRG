@@ -2,7 +2,7 @@
 title: "Rethinking embedded honorification: Syntactic insights from Korean <i>si</i>"
 author: YeAriela0
 date: 2025-04-25 10:30:00 -0400
-duration: 5400
+duration: 4500
 location: lingsem
 
 categories: guest-talk

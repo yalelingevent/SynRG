@@ -2,7 +2,7 @@
 title: Hyperraising higher subjects
 author: DiasTarcisio0
 date: 2025-10-24 10:30:00 -0400
-duration: 5400
+duration: 4500
 location: 37hillhouse101
 
 categories: guest-talk
