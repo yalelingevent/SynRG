@@ -3,26 +3,47 @@
     style="border: 1px solid; border-radius: 4px;"
     data-start="{{ page.date | date: '%Y%m%dT%H%M%S' }}"
     data-end="{{ page.date | date: '%s' | plus: duration | date: '%Y%m%dT%H%M%S' }}"
+    data-title="{{ page.title }}"
+    data-location="{{ site.data.locations[page.location].name | default: '' }}"
+    data-meeting-url = "{{ page.meeting_url }}"
     class="btn btn-sm btn-outline-secondary"
 >
   <i class="fas fa-calendar-plus"></i>
 </button>
 
+
+
 <script>
 document.getElementById('ics-btn').addEventListener('click', function() {
+  var title = this.dataset.title;
+  var summary = '[SynRG]' + title;
   var start = this.dataset.start;
   var end = this.dataset.end;
+
+  var meetingUrl = this.dataset.meetingUrl;
+
+
   var CRLF = String.fromCharCode(13, 10);
-  var ics = [
+
+
+  var lines = [
     'BEGIN:VCALENDAR',
     'VERSION:2.0',
     'BEGIN:VEVENT',
-    'SUMMARY:Test',
+    'SUMMARY:' + summary,
     'DTSTART;TZID=America/New_York:' + start,
     'DTEND;TZID=America/New_York:' + end,
-    'END:VEVENT',
-    'END:VCALENDAR'
-  ].join(CRLF);
+  ];
+
+  if (meetingUrl) {
+    lines.push('URL:' + meetingUrl);
+  }
+
+  lines.push('LOCATION:' + this.dataset.location)
+  lines.push('END:VEVENT');
+  lines.push('END:VCALENDAR');
+
+  var ics = lines.join(CRLF);
 
   var blob = new Blob([ics], { type: 'text/calendar;charset=utf-8' });
   var url = URL.createObjectURL(blob);

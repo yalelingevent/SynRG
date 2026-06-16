@@ -5,12 +5,11 @@ author: ZykoskiBritanni0
 location: 37hillhouse202
 
 categories: guest-talk
-tags: [head movement, micro-variation]
+tags: [head movement, micro-variation, movement]
 
 handout_url: 
 
 stataion: 
-
 
 ---
 
