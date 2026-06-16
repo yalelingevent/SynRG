@@ -8,7 +8,7 @@ location: 37hillhouse101
 categories: guest-talk
 tags: [reflexives, binding theory, pronoun]
 
-handout_url: assets/pdf/2025Fall/SynRG_2025Fall_BuiThuong.pdf
+handout_url: /assets/pdf/2025Fall/SynRG_2025Fall_BuiThuong.pdf
 
 station:
 ---
