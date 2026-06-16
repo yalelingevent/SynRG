@@ -4,5 +4,13 @@
 37hillhouse202:
   name: "37 Hillhouse Ave, Unit 202, New Haven, CT, United States of America"
 
+37hillhouseg08:
+  name: "37 Hillhouse Ave, Unit G-08, New Haven, CT, United States of America"
+
+# our previous building
+
+dow100:
+  name: "370 Temple St, Unit 100, New Haven, CT, United States of America"
+
 lingsem:
-  name: "370 Temple St, Unit 200, New Haven, CT, United States of America"
+  name: "370 Temple St, Unit 201, New Haven, CT, United States of America"

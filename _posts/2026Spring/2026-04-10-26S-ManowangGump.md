@@ -1,6 +1,7 @@
 ---
 title: The (non-)survival of discourse particles in ellipsis
 date: 2026-04-10 10:30:00 -0400
+duration: 4500
 author: ManowangGump0
 location: 37hillhouse101
 

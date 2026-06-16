@@ -1,71 +1,133 @@
 # Logistics (暫定):
 # 1. If an entity changes affiliation, it could potentially be captured by creating multiple entries, e.g. FamilyGiven0, FamilyGiven1. The information of an entity shown for a talk should be the one that took effect at the time of the talk, even when it is different from now.
-# 2.
+# 2. maybe emails should not be entered (for privacy and safety)
+
+AremuDaniel0:
+  name: Daniel Aremu (Goethe)
+  email:
+  url: https://aremudaniel90.wixsite.com/linguist-dan
 
 BakerMark0:
   name: Mark Baker (Rutgers)
-  email: mabaker@linguistics.rutgers.edu
+  email:
   url: https://sites.rutgers.edu/mark-baker/
 
 BenzJohanna0:
   name: Johanna Benz (Princeton)
-  email: jb1341@princeton.edu
+  email:
   url: https://www.johannabenz.com
 
 BrodkinDan0:
+  name: Dan Brodkin (UCSC)
+  email:
+  url:
+
+BrodkinDan1:
   name: Dan Brodkin (UPenn)
-  email: dbrodkin@sas.upenn.edu
+  email:
   url: https://www.ling.upenn.edu/people/daniel-brodkin
 
 BuiThuong0:
   name: Thương Beryl Bui (Rutgers)
-  email: thb38@rutgers.edu
+  email:
+  url:
+
+DanielPenelope0:
+  name: Penelope Daniel
+  email:
+  url: https://sites.google.com/view/penelope-daniel/home
 
 DiasTarcisio0:
   name: Tarcisio Dias (UConn)
-  email: tarcisio.dias@uconn.edu
+  email:
   url: https://linguistics.uconn.edu/person/tarcisio-dias/
 
 EgressyJános0:
   name: János Egressy (UCLA)
-  email: egressyjanos@gmail.com
+  email:
   url: https://linguistics.ucla.edu/person/janos-egressy/
+
+HoleDaniel0:
+  name: Daniel Hole (Stuttgart)
+  email:
+  url: https://www.uni-stuttgart.de/en/press/experts/Prof.-Daniel-Hole/
 
 JianJasper0:
   name: Jasper Jian (Stanford)
-  email: jjian@stanford.edu
+  email:
   url: https://sites.google.com/view/jasperjian
 
 KasenovDaniar0:
   name: Daniar Kasenov (NYU)
-  email: dk4981@nyu.edu
+  email:
   url: https://antidanyar.github.io/academic/
 
 KatochoritisYiannis0:
   name: Yiannis Katochoritis (MIT)
-  email: katoch98@mit.edu
+  email:
   url: https://linguistics.mit.edu/user/katoch98/
+
+KimYoung-Hoon0:
+  name: Young-Hoon Kim (Cornell)
+  email:
+  url: https://sites.google.com/cornell.edu/younghoonkim/home
+
+KodnerJacob0:
+  name: Jacob Kodner (Harvard)
+  email:
+  url: http://www.kodner.org
+
+LiuPeng0:
+  name: Peng Liu (Stuttgart)
+  email:
+  url: https://www.ling.uni-stuttgart.de/en/institute/team/Liu-00041/
 
 ManowangGump0:
   name: Manowang Gump (UCL)
-  email: w.manowang@ucl.ac.uk
+  email:
   url: https://sites.google.com/kmitl.ac.th/gumpmanowang/about-me
 
 NdapoOlivia0:
   name: Olivia Ndapo (NYU)
-  email: oln2005@nyu.edu
+  email:
+  url:
+
+OzakiSatoru0:
+  name: Satoru Ozaki
+  email:
+  url: https://ikazos.gitlab.io/content/index.html
+
+RoversiGiovanni0:
+  name: GiovanniRoversi (MIT)
+  email:
+  url: https://giovanniroversi.com
+
+ShihChun-Hung0:
+  name: Chun-Hung Shih (UPenn)
+  email:
+  url: https://chunhungshih.github.io
+
+SvavarsdóttirHrefna0:
+  name: Hrefna Svavarsdóttir (Harvard)
+  email:
+  url: https://linguistics.fas.harvard.edu/people/hrefna-svavarsdottir
+
+WimmerAlexander0:
+  name: Alexander Wimmer (Stuttgart)
+  email:
+  url: https://appwimmer.wordpress.com
 
 WoodJim0:
   name: Jim Wood (Yale)
-  email: jim.wood8@gmail.com
+  email:
   url: https://jimwood8.wordpress.com
 
 YeAriela0:
   name: Ariela Ye (Rutgers)
-  email: arielaluye@gmail.com
+  email:
   url: https://www.arielaye.com
 
 ZykoskiBritanni0:
   name: Brittany Zykoski (UPenn)
-  email: zykoski@sas.upenn.edu
+  email:
   url: https://www.ling.upenn.edu/people/brittany-zykoski

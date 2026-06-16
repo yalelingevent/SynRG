@@ -1,7 +1,8 @@
 ---
 title: A-Locality at the Edge
-date: 2026-03-27 10:30:00 -0500
-author: BrodkinDan0
+date: 2026-03-27 10:30:00 -0400
+duration: 4500
+author: BrodkinDan1
 location: 37hillhouse101
 
 categories: guest-talk

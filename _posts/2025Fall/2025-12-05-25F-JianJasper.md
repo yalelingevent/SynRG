@@ -6,7 +6,7 @@ duration: 4500
 location: 37hillhouse101
 
 categories: guest-talk
-tags: [feature, bundling]
+tags: [feature]
 
 handout_url: /assets/pdf/2025Fall/SynRG_2025Fall_JianJapser.pdf
 
