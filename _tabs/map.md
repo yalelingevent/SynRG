@@ -18,7 +18,7 @@ Under construction
     attribution: '&copy; OpenStreetMap contributors'
   }).addTo(map);
 
-  L.marker([41.314, -72.923]).addTo(map)
+  L.marker([41.31449214372543, -72.92274587937527]).addTo(map)
     .bindPopup('Yale Linguistics Department')
     .openPopup();
 </script>
