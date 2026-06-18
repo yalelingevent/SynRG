@@ -2,11 +2,11 @@
 title: "[Joing Meeting with SRG] inimal sufficiency and scalar concord in German, English and Chinese"
 
 author: [HoleDaniel0, WimmerAlexander0, LiuPeng0]
-date: 2025-09-12 12:0:00 -0500
+date: 2025-09-12 12:00:00 -0500
 duration: 5400
 location: 37hillhouseg08
 
-handout_url: /assets/pdf/2025Fall/2025Fall_HoleWimmerLiu.pdf
+handout_url: /assets/pdf/2025Fall/SynRG_2025Fall_HoleWimmerLiu.pdf
 meeting_url: 
 
 categories: guest-talk

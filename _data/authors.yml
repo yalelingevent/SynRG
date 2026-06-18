@@ -52,10 +52,35 @@ EgressyJános0:
   email:
   url: https://linguistics.ucla.edu/person/janos-egressy/
 
+EverdellMichael0:
+  name: Michael Everdell (Boston)
+  email:
+  url: https://michael-everdell.github.io
+
+GarzonioJacopo0:
+  name: Jacopo Garzonio (Puada)
+  email:
+  url: https://www.torch.ox.ac.uk/people/jacopo-garzonio
+
+GhoshalKaustubh0:
+  name: Kaustubh Ghoshal (NYU)
+  email:
+  url: https://sites.google.com/view/kaustubhghoshal
+
+GreesonDaniel0:
+  name: Daniel Greeson (Stony Brook)
+  email:
+  url: https://www.danielgreeson.com
+
 GuChristine0:
   name: Christine Gu (NYU)
   email:
   url: https://www.christinegu.org
+
+HewettMatthew0:
+  name: Matthew Hewett (Georgetown)
+  email:
+  url: https://sites.google.com/sas.upenn.edu/mhewett/home
 
 HoleDaniel0:
   name: Daniel Hole (Stuttgart)
@@ -92,10 +117,20 @@ KodnerJacob0:
   email:
   url: https://www.kodner.org
 
+LeeSoo-Hwan0:
+  name: Soo-Hwan Lee (NYU)
+  email:
+  url: https://soo-hwanlee.github.io
+
 LiuPeng0:
   name: Peng Liu (Stuttgart)
   email:
   url: https://www.ling.uni-stuttgart.de/en/institute/team/Liu-00041/
+
+McMahonClara0:
+  name: Clara McMahon (CUNY)
+  email:
+  url: https://www.claramcmahon.com
 
 ManowangGump0:
   name: Manowang Gump (UCL)
@@ -122,10 +157,25 @@ OzakiSatoru0:
   email:
   url: https://ikazos.gitlab.io/content/index.html
 
+PanagiotidisPhoevos0:
+  name: Phoevos Panagiotidis (Cyprus)
+  email:
+  url: https://erc.ucy.ac.cy/directory/en/profile/phoevos
+
+PolettoCecila0:
+  name: Cecilia Poletto (Goethe & Puada)
+  email:
+  url: https://www.torch.ox.ac.uk/people/cecilia-poletto
+
 RoversiGiovanni0:
   name: GiovanniRoversi (MIT)
   email:
   url: https://giovanniroversi.com
+
+SereikaiteMilena0:
+  name: Milena Šereikaitė (Princeton)
+  email:
+  url: https://sereikaite.com
 
 ShihChun-Hung0:
   name: Chun-Hung Shih (UPenn)
@@ -166,6 +216,11 @@ WuNairan0:
   name: Nairan Wu (Boston)
   email:
   url: https://www.bu.edu/linguistics/profile/nairan-wu/
+
+YanQiuhaoCharlie0:
+  name: Qiuhao Charlie Yan (QMUL)
+  email:
+  url: https://www.qiuhaocharlesyan.com
 
 YeAriela0:
   name: Ariela Ye (Rutgers)

@@ -1,7 +1,7 @@
 ---
 title: "Conditional wh-questions with VP Ellipsis, or: What kind of DP does the elided VP contain if the antecedent VP does?"
 author: OzakiSatoru0
-date: 2025-02-21 10:30:00 -0500
+date: 2025-02-07 10:30:00 -0500
 duration: 4500
 location: lingsem
 
