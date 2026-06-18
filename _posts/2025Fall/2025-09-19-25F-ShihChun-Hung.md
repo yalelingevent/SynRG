@@ -1,5 +1,5 @@
 ---
-title: Predicative possessives in Budai Rukai*
+title: Predicative possessives in Budai Rukai
 
 author: ShihChun-Hung0
 date: 2025-09-19 10:30:00 -0500
