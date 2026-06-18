@@ -1,5 +1,5 @@
 ---
-title: "[Joing Meeting with SRG] inimal sufficiency and scalar concord in German, English and Chinese"
+title: "[Joing Meeting with SRG] Minimal sufficiency and scalar concord in German, English and Chinese"
 
 author: [HoleDaniel0, WimmerAlexander0, LiuPeng0]
 date: 2025-09-12 12:00:00 -0500
