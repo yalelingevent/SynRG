@@ -1,6 +1,6 @@
 ---
 title: Case marking variation and syncretism repairs in Icelandic ECM/raising
-author: SvavarsdóttirHrefna0
+author: SvavarsdottirHrefna0
 date: 2025-10-03 10:30:00 -0400
 duration: 4500
 location: 37hillhouse101

@@ -10,7 +10,7 @@ handout_url: /assets/pdf/2024Fall/SynRG_2024Spring_McMahonClara.pdf
 meeting_url: 
 
 categories: guest-talk
-tags: [negation, concord, agreement]
+tags: [negation, agreement and concord]
 
 station: 
 

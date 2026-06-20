@@ -6,7 +6,7 @@ author: ManowangGump0
 location: 37hillhouse101
 
 categories: guest-talk
-tags: [discourse, ellipsis]
+tags: [discourse, ellipsis and silence]
 
 meeting_url: https://yale.zoom.us/j/93350464072
 handout_url: /assets/pdf/2026Spring/SynRG_2026Spring_ManowangGump.pdf

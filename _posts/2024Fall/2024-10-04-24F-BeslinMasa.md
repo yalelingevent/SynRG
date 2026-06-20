@@ -10,7 +10,7 @@ handout_url:
 meeting_url: https://yale.zoom.us/j/91005960681
 
 categories: guest-talk
-tags: [allomorphy, locality]
+tags: [allomorphy, locality, syntax-morphology interface, syntax-semantics interface]
 
 station: 
 ---

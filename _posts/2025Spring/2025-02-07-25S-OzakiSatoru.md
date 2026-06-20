@@ -6,7 +6,7 @@ duration: 4500
 location: lingsem
 
 categories: guest-talk
-tags: [syntax-semantics interface, conditionals, ellipsis]
+tags: [syntax-semantics interface, conditionals, ellipsis and silence]
 
 handout_url: 
 meeting_url: 

@@ -10,7 +10,7 @@ handout_url: /assets/pdf/2025Fall/SynRG_2025Fall_ShihChun-Hung.pdf
 meeting_url: https://yale.zoom.us/j/99739775293
 
 categories: guest-talk
-tags: [possessives]
+tags: [possessives, argument structure]
 
 station: 
 

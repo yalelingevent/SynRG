@@ -6,7 +6,7 @@ duration: 4500
 location: lingsem
 
 categories: guest-talk
-tags: [movement, locality, agreement]
+tags: [movement, locality, agreement and concord]
 
 handout_url: 
 meeting_url: 

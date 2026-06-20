@@ -4,7 +4,12 @@ icon: fas fa-map
 order: 3
 ---
 
-Under construction
+<iframe
+  src="/assets/pdf/transit.pdf"
+  width="100%"
+  height="100"
+  style="border: none;"
+></iframe>
 
 <div id="map" style="height: 100vh; width: 100%;"></div>
 

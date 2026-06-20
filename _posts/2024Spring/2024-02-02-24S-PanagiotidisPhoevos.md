@@ -10,7 +10,7 @@ handout_url:
 meeting_url: 
 
 categories: guest-talk
-tags: [spine]
+tags: [feature]
 
 station: 
 
