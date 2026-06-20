@@ -4,6 +4,14 @@ icon: fas fa-map
 order: 3
 ---
 
+<iframe 
+  src= "{{ site.baseurl}}/assets/pdf/transit.pdf"
+  width="100%" 
+  height="600px" 
+  style="border: none;"
+  title="Transit"></p>
+</iframe>
+
 <div id="map" style="height: 100vh; width: 100%;"></div>
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
