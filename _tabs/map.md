@@ -7,7 +7,7 @@ order: 3
 <iframe 
   src= "{{ site.baseurl}}/assets/pdf/transit.pdf"
   width="100%" 
-  height="600px" 
+  height="500px" 
   style="border: none;"
   title="Transit"></p>
 </iframe>
