@@ -5,7 +5,7 @@ duration: 4500
 author: Tamar-MattisSquid0
 location: 37hillhouse101
 
-categories: guest-talk
+categories: yale-talk
 tags: [agreement and concord]
 
 meeting_url: 
